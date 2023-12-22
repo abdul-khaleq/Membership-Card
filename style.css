@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -21,11 +22,12 @@
 }
 .card-address{
     font-style: normal;
-    margin-left: 12%;
+    margin-left: 16%;
     width: 100%;
 }
 .card-address p{
     line-height: 1.7em;
     font-size: 26px;
-    font-weight: 500;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
 }
