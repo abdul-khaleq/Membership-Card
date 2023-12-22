@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-section{
+    width: 1012px;
+    height: 638px;
+    margin: 0 auto;
+}
+.membership-card{
+    background-image: url('bg_membership_card.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 1012px;
+    height: 638px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-address{
+    font-style: normal;
+    margin-left: 12%;
+    width: 100%;
+}
+.card-address p{
+    line-height: 1.7em;
+    font-size: 26px;
+    font-weight: 500;
+}
